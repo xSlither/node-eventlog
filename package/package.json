@@ -33,7 +33,7 @@
     "module_path": "./lib/binding/napi-v{napi_build_version}",
     "package_name": "{platform}-{arch}-napi-v{napi_build_version}.tar.gz",
     "host": "https://github.com/xSlither/node-eventlog/releases/download/",
-    "remote_path": "{version}",
+    "remote_path": "{version}/{platform}-{arch}-napi-v{napi_build_version}.tar.gz",
     "napi_versions": [
       2
     ]
