@@ -1,0 +1,11 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-eventlog": "../package"
+  }
+}
