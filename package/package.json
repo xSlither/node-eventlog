@@ -1,6 +1,6 @@
 {
   "name": "node-eventlog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An event log utility for Windows 10 & Server 2012/2016 that actually works",
   "main": "index.js",
   "gypfile": true,
@@ -33,7 +33,7 @@
     "module_path": "./lib/binding/napi-v{napi_build_version}",
     "package_name": "{platform}-{arch}-napi-v{napi_build_version}.tar.gz",
     "host": "https://github.com/xSlither/node-eventlog/releases/download/",
-    "remote_path": "{version}/{platform}-{arch}-napi-v{napi_build_version}.tar.gz",
+    "remote_path": "{version}",
     "napi_versions": [
       2
     ]
