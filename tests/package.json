@@ -6,6 +6,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-eventlog": "^1.0.0"
+    "node-eventlog": "^1.0.1"
   }
 }
