@@ -18,7 +18,7 @@ To install, simply use the npm package:
 npm i node-eventlog
 ```
 
-However, if there is an issue installing the pre-compiled binaries (such as bring behind a corporate firewall), it will fallback to compiling from the source, which means you need to have [windows-build-tools](https://www.npmjs.com/package/windows-build-tools) or Visual Studio & Python installed.
+However, if there is an issue installing the pre-compiled binaries (such as being behind a corporate firewall), it will fallback to compiling from the source, which means you need to have [windows-build-tools](https://www.npmjs.com/package/windows-build-tools) or Visual Studio & Python installed.
 
 ### How to use the module
 
